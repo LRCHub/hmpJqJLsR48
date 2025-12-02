@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "BLOODY STREAM",
+  "base_artist": "Coda",
+  "createdAt": "2025-12-02T16:42:10.728542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bloody Stream",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/01_Bloody_Stream_Coda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BLOODY STREAM",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/02_BLOODY_STREAM_Coda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BLOODY STREAM ~mito remix ver.~",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/03_BLOODY_STREAM_~mito_remix_ver.~_Coda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BLOODY STREAM ~mito remix ver.~ ORIGINAL KARAOKE",
+      "artist": "Coda",
+      "has_synced": false,
+      "path": "select/04_BLOODY_STREAM_~mito_remix_ver.~_ORIGINAL_KARAOKE_Coda.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bloody Stream",
+      "artist": "MasakoXtreme",
+      "has_synced": true,
+      "path": "select/05_Bloody_Stream_MasakoXtreme.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bloody Stream",
+      "artist": "Coda Piano Trio",
+      "has_synced": false,
+      "path": "select/06_Bloody_Stream_Coda_Piano_Trio.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BLOODY STREAM",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/07_BLOODY_STREAM_Coda.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BLOODY STREAM",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/08_BLOODY_STREAM_Coda.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bloody Stream",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/09_Bloody_Stream_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bloody Stream (From \"JoJo's Bizarre Adventure\") [REMIX]",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/10_Bloody_Stream_(From__JoJo's_Bizarre_Adventure_)_[REMIX]_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BLOODY STREAM - 〜mito remix ver.〜",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/11_BLOODY_STREAM_-_〜mito_remix_ver.〜_Coda.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BLOODY STREAM ～mito remix ver.～",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/12_BLOODY_STREAM_~mito_remix_ver.~_Coda.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BLOODY STREAM ～mito remix ver.～ (オリジナル・カラオケ)",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/13_BLOODY_STREAM_~mito_remix_ver.~_(オリジナル・カラオケ)_Coda.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bloody Stream",
+      "artist": "Jonathan Young feat. insaneintherainmusic",
+      "has_synced": true,
+      "path": "select/14_Bloody_Stream_Jonathan_Young_feat._insaneintherainmusic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bloody Stream (Instrumental)",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/15_Bloody_Stream_(Instrumental)_Coda.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BLOODY STREAM",
+      "artist": "Coda",
+      "has_synced": false,
+      "path": "select/pl_01_BLOODY_STREAM_Coda.txt"
+    }
+  ]
+}
